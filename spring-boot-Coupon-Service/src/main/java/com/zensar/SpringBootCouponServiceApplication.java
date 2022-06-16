@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = {"test","com.zensar"})
+@ComponentScan(basePackages = { "test", "com.zensar" })
 public class SpringBootCouponServiceApplication {
 
 	public static void main(String[] args) {
